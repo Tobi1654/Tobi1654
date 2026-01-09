@@ -8,6 +8,6 @@
 - 📫 How to reach me: through my email on my profile
 - ⚡ Fun fact: Am 5foot 6, I dont have any pets, my personality trait is ISTP apparently
 
-## My roadmap.sh progile card.
+## My roadmap.sh Road card.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/695ff5ccb5796bd00c386062?variant=dark" alt="roadmap.sh"/></a>
