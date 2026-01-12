@@ -10,7 +10,7 @@
 
 ## My roadmap.sh Road card.
 
-[<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/695ff5ccb5796bd00c386062?variant=dark" alt="roadmap.sh"/></a>](https://roadmap.sh/card/wide/695ff5ccb5796bd00c386062?variant=dark)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/695ff5ccb5796bd00c386062?variant=dark" alt="roadmap.sh"/></a>
 
 ## Languages and tools🔨
 <br>
