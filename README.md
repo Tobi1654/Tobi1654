@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with understanding more of CSS design and whta can make me a smart designer
 - 💬 Ask me about school, social life, etc
 - 📫 How to reach me: through my email on my profile
-- ⚡ Fun fact: Am 5foot 6, I dont have any pets, my personality trait is ISTP apparently
 
 ## My roadmap.sh Road card.
 
